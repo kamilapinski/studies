@@ -1,0 +1,1 @@
+Assignment description's [here](tresc.pdf).
